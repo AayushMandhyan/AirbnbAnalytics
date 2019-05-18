@@ -1,2 +1,3 @@
-# AirbnbAnalytics
-An Interactive Visual Analytics platform which caters to the user needs of finding perfect destination for travelers and helping the business users by mining Airbnb listings and finding the customer pain points and opportunities. 
+# Airbnb-Visual-Search-NYC-Shiny-
+My shiny app for Airbnb Visual Search in NYC; 
+- The app is here:http://216.230.228.88:3838/bootcamp004_project/Project2-Shiny/amyma/
