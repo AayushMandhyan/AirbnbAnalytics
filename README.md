@@ -16,4 +16,4 @@ An Interactive Visual Analytics platform which caters to the user needs of findi
 
 
 Airbnb Analytics URL:
-URL : https://aayushmandhyan.shinyapps.io/airbnbanalytics/
+https://aayushmandhyan.shinyapps.io/airbnbanalytics/
