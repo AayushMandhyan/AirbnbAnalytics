@@ -17,3 +17,5 @@ An Interactive Visual Analytics platform which caters to the user needs of findi
 
 Airbnb Analytics URL:
 https://aayushmandhyan.shinyapps.io/airbnbanalytics/
+
+Project Report: [Project Report](https://github.com/AayushMandhyan/AirbnbAnalytics/blob/master/Airbnb_Visualization_Engine_report_pdf.pdf).
